@@ -19,7 +19,7 @@ Bir kaç katmandan oluştuğu için başarılı bir model değildir.
 
 ## Eğitim Aşaması
 
-Eğitim `egitim.py` dosyası ile yapılmaktadır. Kullanılan yapılar:
+Eğitim `pytorchileegit.py` dosyası ile yapılmaktadır. Kullanılan yapılar:
 - `CrossEntropyLoss` → Sınıf tahmini kaybı
 - `MSELoss` → BBox tahmini kaybı
 - `collate_fn` → Farklı sayıda bounding box içeren örnekler için padding işlemi
