@@ -1,4 +1,4 @@
-# Basit YOLO Formatlı Nesne Tespit Modeli 🍅
+# Basit YOLO Formatlı Nesne Tespit Modeli
 
 Bu proje, YOLO formatında etiketlenmiş bir veri kümesi (Roboflow'dan) kullanılarak PyTorch ile sıfırdan yazılmış basit bir CNN modeliyle nesne tespiti yapmayı amaçlamaktadır.
 Projede örnek olarak domates tespiti özelinde çalışılmıştır.
