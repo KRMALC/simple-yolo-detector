@@ -1,0 +1,7 @@
+train: C:/Your_PATH_Tomato Detection.v1i.yolov8/train/images
+val: C:/Your_PATH_/Tomato Detection.v1i.yolov8/valid/images
+test: C:/Your_PATH_Tomato Detection.v1i.yolov8/test/images
+
+
+nc: 1
+names: ['tomato']
